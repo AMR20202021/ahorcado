@@ -1,0 +1,18 @@
+html, body {
+    background-color: #2F4F30;
+    color: white;
+    margin: 0px;
+}
+
+#tapete {
+    height: 320px;
+    margin: 20px;
+}
+
+.carta {
+    height: 160px;
+    left: 100px;
+    margin: 5px; 
+    margin-left: -45px;
+    position: relative;
+}
